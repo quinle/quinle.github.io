@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Projects
-permalink: /projects/
+title: Coding projects
+permalink: /coding-projects/
 ---
 
-Few of my projects.
+My solution for leetcode problems.
