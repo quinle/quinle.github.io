@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "Word Pattern (python3)",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "Mar 2020",
+		"tags": ["Leetcode","Hash Table"]
 	},
 	{
 		"name": "Cool project 2",
