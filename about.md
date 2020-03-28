@@ -8,4 +8,4 @@ PhD student in Applied Math at University of Southern California, 2019 - now
 
 PhD student in Math at Indiana University Bloomington, 2017 - 2019
 
-An occasional writer 
+An occasional writer who is actively seeking for opportunities
