@@ -7,18 +7,18 @@ layout: default
     {{ content }}
 
     <div class="math-notes row">
-    {% include project_tags.html %}
-    {% for i in site.data.projects %}
-    <div class="project-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
-    	<div class="well project-outer">
-    		<div class="project-inner">
+    {% include math-notes_tags.html %}
+    {% for i in site.data.math-notes %}
+    <div class="math-notes-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
+    	<div class="well math-notes-outer">
+    		<div class="math-notes-inner">
     			<a href="/static/projects/{{ i.image }}" class="thickbox">
-    			<div class="project-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>
+    			<div class="math-notes-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>
                 </a>
                 {% if i.url %} <a href="{{ i.url }}"> {% endif %}
-    			<h3 class="project-headlines">{{ i.name }}</h3>
+    			<h3 class="math-notes-headlines">{{ i.name }}</h3>
     			{% if i.url %} </a> {% endif %}
-    			<div class="project-content">
+    			<div class="math-notes-content">
     				<div class="tag-holder">
     				{% if i.tags %} 
     					{% for j in i.tags %}
@@ -28,11 +28,11 @@ layout: default
     				</div>
     				
     			</div>
-    			<div class="project-footer"> 
+    			<div class="math-notes-footer"> 
     				{% if i.url %} 
-    				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm project-link">View</a>
+    				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm math-notes-link">View</a>
     				{% endif %}
-    				<span class="project-timeline">{{ i.date }}</span>
+    				<span class="math-notes-timeline">{{ i.date }}</span>
     			</div>
     		</div>
     	</div>
