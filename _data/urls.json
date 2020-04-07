@@ -26,8 +26,8 @@
     "icon": "fa-github"
   },
   {
-    "text": "XML Feed",
-    "url": "/feed.xml",
+    "text": "Math projects",
+    "url": "/",
     "icon": "fa-feed",
     "target": _blank
   }
