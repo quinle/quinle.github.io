@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-My solution for leetcode problems.
+Coding projects
