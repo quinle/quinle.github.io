@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Word Pattern (python3)",
+		"name": "Buy sell stock with transaction fee",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "Mar 2020",
-		"tags": ["Leetcode","Hash Table"]
+		"date": "April 2020",
+		"tags": ["Leetcode","Two pointers", "Python"]
 	},
 	{
 		"name": "Cool project 2",
