@@ -1,21 +1,21 @@
 [
 	{
 		"name": "Buy sell stock with transaction fee",
-		"image": "placeholder.jpg",
+		"image": "17973539_1875385062503415_1953886975408954607_o.png",
 		"url": "https://github.com/quinle/leetcode/blob/master/buy-sell-with-transaction-fee.py",
 		"date": "April 2020",
 		"tags": ["Leetcode","Two pointers", "Python"]
 	},
 	{
 		"name": "Buy sell stock - one transaction",
-		"image": "placeholder.jpg",
+		"image": "17973539_1875385062503415_1953886975408954607_o.png",
 		"url": "https://github.com/quinle/leetcode/blob/master/buy-sell-stock-once.cpp",
 		"date": "April 2020",
 		"tags": ["Leetcode","Two pointers", "C++"]
 	},
 	{
 		"name": "Buy sell stock - multiple transactions",
-		"image": "placeholder.jpg",
+		"image": "17973539_1875385062503415_1953886975408954607_o.png",
 		"url": "https://github.com/quinle/leetcode/blob/master/buy-sell-stock-multiple-times.cpp",
 		"date": "April 2020",
 		"tags": ["Leetcode","Two pointers","C++"]
