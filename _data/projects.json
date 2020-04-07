@@ -2,7 +2,7 @@
 	{
 		"name": "Buy sell stock with transaction fee",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "https://github.com/quinle/leetcode/blob/master/buy-sell-with-transaction-fee.py",
 		"date": "April 2020",
 		"tags": ["Leetcode","Two pointers", "Python"]
 	},
