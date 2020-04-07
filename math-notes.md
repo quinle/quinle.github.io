@@ -1,5 +1,7 @@
-layout	title	permalink
-Math notes
-Math notes
-/math-notes/
+---
+layout: project
+title: Math notes
+permalink: /math-notes/
+---
+
 Math projects
