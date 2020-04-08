@@ -12,8 +12,8 @@ layout: default
     <div class="math-notes-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
     	<div class="well math-notes-outer">
     		<div class="math-notes-inner">
-    			<a href="/static/projects/{{ i.image }}" class="thickbox">
-    			<div class="math-notes-img bordered" style="background-image: url('/static/projects/{{ i.image }}');"></div>
+    			<a href="/static/math-notes/{{ i.image }}" class="thickbox">
+    			<div class="math-notes-img bordered" style="background-image: url('/static/math-notes/{{ i.image }}');"></div>
                 </a>
                 {% if i.url %} <a href="{{ i.url }}"> {% endif %}
     			<h3 class="math-notes-headlines">{{ i.name }}</h3>
